@@ -1,7 +1,18 @@
-/*body{
+body{
 	margin: 30px;
 }
-.my-container{
+img {
+  width:50%;
+  height: 75px;
+
+}
+
+
+
+
+
+
+/*.my-container{
 	border: 3px solid greens;
 }
 .my-row{
@@ -10,7 +21,7 @@
 }
 .my-col{
 	border: 3px dotted blue;
-}*/
+}
 .my-row-name{
 	height: 100px;
-}
+}*/
